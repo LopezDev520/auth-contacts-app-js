@@ -4,7 +4,7 @@ My first app with authentication with JWT, a contacts app
 ## HOW TO START THE APP
 
 ### INSTALL BACKEND DEPENDENCIES
-Go to ```server-client```
+Go to ```server-app```
 ```bash
   # If you are using npm
   npm install
